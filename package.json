@@ -1,0 +1,22 @@
+{
+  "name": "wepp",
+  "version": "0.0.1",
+  "description": "Convert images to WebP on MacOS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "electron-builder install-app-deps",
+    "build":
+      "electron-packager . wepp --platform=mas --icon=./build/icon.icns --production --overwrite"
+  },
+  "repository": "https://github.com/fabe/wepp",
+  "author": "Fabian Schultz",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.8",
+    "electron-packager": "^9.1.0"
+  },
+  "dependencies": {
+    "sharp": "^0.18.4"
+  }
+}
