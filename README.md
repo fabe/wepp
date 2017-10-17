@@ -1,8 +1,11 @@
 <p align="center">
+  <strong>wepp</strong><br>
+  Convert images to WebP on MacOS.
+</p>
+<p align="center">
   <a href="https://gfycat.com/gifs/detail/SlowSizzlingKrill"><img src="https://thumbs.gfycat.com/SlowSizzlingKrill-size_restricted.gif"></a>
 </p>
 <p align="center">
-  Convert images to WebP on MacOS.<br>
   <strong><a href="https://api.github.com/repos/fabe/wepp/releases/latest">Download</a></strong>
 </p>
 <p align="center">
