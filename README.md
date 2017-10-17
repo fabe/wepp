@@ -2,7 +2,7 @@
   <a href="https://gfycat.com/gifs/detail/SlowSizzlingKrill"><img src="https://thumbs.gfycat.com/SlowSizzlingKrill-size_restricted.gif"></a>
 </p>
 <p align="center">
-  Convert images to WebP on MacOS.<br>
+  Convert images to WebP on macOS.<br>
   <strong><a href="https://github.com/fabe/wepp/releases/download/0.0.1/wepp.app.zip">Download</a></strong>
 </p>
 <p align="center">
