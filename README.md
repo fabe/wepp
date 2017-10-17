@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   Convert images to WebP on MacOS.<br>
-  <strong><a href="https://api.github.com/repos/fabe/wepp/releases/latest">Download</a></strong>
+  <strong><a href="https://github.com/fabe/wepp/releases/download/0.0.1/wepp.app.zip">Download</a></strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" align="center" alt="styled with prettier">
